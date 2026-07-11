@@ -1,4 +1,4 @@
-# Vertex-X1: Quadruped Cybernetic Robot Core
+# Kiba-Robodog: Quadruped Cybernetic Robot Core
 
 A comprehensive engineering blueprint, firmware codebase, and modular control documentation for the **Vertex-X1** quadruped robot. This file details the structural mechanical answers required for the task guidelines, followed by advanced software-hardware integration.
 
